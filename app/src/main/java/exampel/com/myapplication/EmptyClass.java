@@ -6,4 +6,5 @@ package exampel.com.myapplication;
 
 public class EmptyClass {
 
+    String d;
 }
