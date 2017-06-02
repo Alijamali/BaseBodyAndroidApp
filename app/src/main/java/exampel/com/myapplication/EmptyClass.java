@@ -5,4 +5,5 @@ package exampel.com.myapplication;
  */
 
 public class EmptyClass {
+
 }
